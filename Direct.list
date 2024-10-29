@@ -7,8 +7,8 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 
 #My_vps
-IP-CIDR,149.130.222.120,no-resolve
-IP-CIDR,207.127.92.89,no-resolve
+IP-CIDR,149.130.222.120/32,no-resolve
+IP-CIDR,207.127.92.89/32,no-resolve
 
 
 # 域名关键字匹配
