@@ -1,0 +1,13 @@
+# 外网主机(一直在漏网之鱼中，直接走直连不让oc的代理一直无法连接)
+
+#例子
+# 域名后缀匹配
+#DOMAIN-SUFFIX,time.windows.com
+# 域名关键字匹配
+#DOMAIN-KEYWORD,baidu
+
+# IP段匹配
+#IP-CIDR,219.146.1.66/32,no-resolve
+#My_vps
+IP-CIDR,149.130.222.120/32,no-resolve
+IP-CIDR,207.127.92.89/32,no-resolve
