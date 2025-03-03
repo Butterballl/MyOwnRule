@@ -19,3 +19,5 @@ DOMAIN-SUFFIX,api.dns-verify.top
 #
 DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,ourbits.club
+#
+SRC-IP-CIDR,192.168.0.4/32
