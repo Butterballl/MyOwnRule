@@ -23,8 +23,8 @@ DOMAIN-SUFFIX,ourbits.club
 SRC-IP-CIDR,192.168.0.4/32
 
 
-
-
+#主题
+DOMAIN-SUFFIX,i2.wp.com:
 #tracker
 #DOMAIN-SUFFIX,tracker.carpt.net
 #DOMAIN-SUFFIX,agsvpt.trackers.work
