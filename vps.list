@@ -8,6 +8,8 @@
 
 # IP段匹配
 #IP-CIDR,219.146.1.66/32,no-resolve
-#My_vps
-IP-CIDR,149.130.222.120/32,no-resolve
-IP-CIDR,207.127.92.89/32,no-resolve
+
+
+
+
+DOMAIN-SUFFIX,soushufabu.top
