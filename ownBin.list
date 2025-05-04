@@ -10,3 +10,4 @@
 #IP-CIDR,219.146.1.66/32,no-resolve
 
 DOMAIN-KEYWORD,bing
+DOMAIN-SUFFIX,cn.bing.com
