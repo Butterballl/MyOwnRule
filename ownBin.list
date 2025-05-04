@@ -9,4 +9,4 @@
 # IP段匹配
 #IP-CIDR,219.146.1.66/32,no-resolve
 
-DOMAIN-SUFFIX,www.bing.com
+DOMAIN-KEYWORD,bing
